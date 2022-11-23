@@ -1,2 +1,3 @@
-# data-noodles.github.io
-data-noodles for daily life
+# data-noodles 
+1. fun with data science 
+2. value, practical
